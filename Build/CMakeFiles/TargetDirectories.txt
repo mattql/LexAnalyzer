@@ -1,0 +1,3 @@
+/home/mattql/Documentos/LexAnalyzer/Build/CMakeFiles/lexAnalyzer.dir
+/home/mattql/Documentos/LexAnalyzer/Build/CMakeFiles/edit_cache.dir
+/home/mattql/Documentos/LexAnalyzer/Build/CMakeFiles/rebuild_cache.dir
